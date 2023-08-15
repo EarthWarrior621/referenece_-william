@@ -1,0 +1,14 @@
+C:\Users\WilliamGarcia\source\repos\referenece_ william\bin\Debug\net6.0\referenece_ william.exe
+C:\Users\WilliamGarcia\source\repos\referenece_ william\bin\Debug\net6.0\referenece_ william.deps.json
+C:\Users\WilliamGarcia\source\repos\referenece_ william\bin\Debug\net6.0\referenece_ william.runtimeconfig.json
+C:\Users\WilliamGarcia\source\repos\referenece_ william\bin\Debug\net6.0\referenece_ william.dll
+C:\Users\WilliamGarcia\source\repos\referenece_ william\bin\Debug\net6.0\referenece_ william.pdb
+C:\Users\WilliamGarcia\source\repos\referenece_ william\obj\Debug\net6.0\referenece_ william.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WilliamGarcia\source\repos\referenece_ william\obj\Debug\net6.0\referenece_ william.AssemblyInfoInputs.cache
+C:\Users\WilliamGarcia\source\repos\referenece_ william\obj\Debug\net6.0\referenece_ william.AssemblyInfo.cs
+C:\Users\WilliamGarcia\source\repos\referenece_ william\obj\Debug\net6.0\referenece_ william.csproj.CoreCompileInputs.cache
+C:\Users\WilliamGarcia\source\repos\referenece_ william\obj\Debug\net6.0\referenece_ william.dll
+C:\Users\WilliamGarcia\source\repos\referenece_ william\obj\Debug\net6.0\refint\referenece_ william.dll
+C:\Users\WilliamGarcia\source\repos\referenece_ william\obj\Debug\net6.0\referenece_ william.pdb
+C:\Users\WilliamGarcia\source\repos\referenece_ william\obj\Debug\net6.0\referenece_ william.genruntimeconfig.cache
+C:\Users\WilliamGarcia\source\repos\referenece_ william\obj\Debug\net6.0\ref\referenece_ william.dll
